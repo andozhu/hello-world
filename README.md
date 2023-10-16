@@ -25,3 +25,17 @@ Hello world
 
 - [ ] Task 001
 - [x] Task 002
+
+| Rank | THING-TO-RANK |
+|------|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
+
